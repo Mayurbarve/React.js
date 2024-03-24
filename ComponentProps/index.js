@@ -7,4 +7,4 @@ root.render(
   <React.StrictMode>
     <Mobile />
   </React.StrictMode>
-);  -
+);  
