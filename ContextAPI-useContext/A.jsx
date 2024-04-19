@@ -1,5 +1,5 @@
 import React, { createContext } from 'react'
-import B from '../../src/B'
+import B from './B'
 
 const GreetContext = createContext();
 
