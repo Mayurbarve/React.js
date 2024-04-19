@@ -1,5 +1,5 @@
 import React from 'react'
-import C from '../../src/C'
+import C from './C'
 
 const B = () => {
   return (
