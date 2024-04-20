@@ -5,7 +5,7 @@ import Contact from './Contact'
 import About from './About'
 import Navbar from './Navbar'
 import Login from './Login'
-import Error from '../../src/Error404'
+import Error from './Error404'
 
 function Router() {
   return (
