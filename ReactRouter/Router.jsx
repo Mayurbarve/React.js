@@ -3,7 +3,7 @@ import {BrowserRouter, Route, Routes} from 'react-router-dom'
 import Home from './Home'
 import Contact from './Contact'
 import About from './About'
-import Navbar from '../../src/Navbar'
+import Navbar from './Navbar'
 import Login from './Login'
 import Error from '../../src/Error404'
 
